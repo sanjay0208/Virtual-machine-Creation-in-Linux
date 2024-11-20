@@ -3,8 +3,10 @@
  ## AIM
 To install a Linux virtual machine (VM) using CentOS on VirtualBox or VMware Workstation.
 
+
 ## PROBLEM STATEMENT
 This experiment involves setting up a virtual machine with CentOS, a popular Linux distribution. This setup allows users to practice Linux commands, test applications, and develop software in a virtualized environment without affecting the host system.
+
 
 ## ALGORITHM
  ### Step 1:
@@ -33,6 +35,7 @@ Click OK to save network settings.</br>
 Click Start to boot up the newly created virtual machine.</br>
 During installation, set a password for the root user.</br>
 After logging in to CentOS, open a terminal to start using the command line.</br>
+
 
 ## COMMANDS
 
@@ -64,8 +67,10 @@ cat /etc/hostname
 ### REG NUMBER: 212222110038
 ### NAME: Sanjay M
 
+
 ## OUTPUT
 ![image](https://github.com/user-attachments/assets/31760086-305c-40af-9894-c12f799ae6e2)
+
 
 ## RESULT
  Successfully installed CentOS on a virtual machine using VirtualBox or VMware, providing a fully functional CentOS environment for testing and development.
